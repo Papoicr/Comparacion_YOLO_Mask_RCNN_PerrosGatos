@@ -1,0 +1,6 @@
+Gato.020.txt
+cat: 0.9413
+
+Perro.355.txt
+dog: 0.9814
+
